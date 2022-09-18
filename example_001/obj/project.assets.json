@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Maxim\\!work\\!GeekBrains\\C_sharp\\01_practice\\example_001\\example_001.csproj",
-      "projectName": "example_001",
-      "projectPath": "C:\\Maxim\\!work\\!GeekBrains\\C_sharp\\01_practice\\example_001\\example_001.csproj",
+      "projectUniqueName": "C:\\Maxim\\!work\\!GeekBrains\\C_sharp\\01_practice\\example_002\\example_002.csproj",
+      "projectName": "example_002",
+      "projectPath": "C:\\Maxim\\!work\\!GeekBrains\\C_sharp\\01_practice\\example_002\\example_002.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Maxim\\!work\\!GeekBrains\\C_sharp\\01_practice\\example_001\\obj\\",
+      "outputPath": "C:\\Maxim\\!work\\!GeekBrains\\C_sharp\\01_practice\\example_002\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

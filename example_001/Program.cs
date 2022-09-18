@@ -6,13 +6,21 @@ namespace Project
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter value x : ");
-            double inputValue = 0;
-            double square = 0;
-            inputValue = Convert.ToDouble(Console.ReadLine());
-            square = inputValue*inputValue;
-            Console.WriteLine($"{inputValue} * {inputValue} = {square}");
+            Console.Write("Enter x1: ");
+            double x1 = Convert.ToDouble(Console.ReadLine());
+            
+            Console.Write("Enter x2: ");
+            double x2 = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("x1 == x2^2? : ");
+            if (x1 == (x2*x2))
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
-
